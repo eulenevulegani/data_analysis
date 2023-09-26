@@ -1,2 +1,0 @@
-# pythonprojects
-python data projects 
